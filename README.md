@@ -1,1 +1,2 @@
 · miCuartoRepo
+desde CLI
